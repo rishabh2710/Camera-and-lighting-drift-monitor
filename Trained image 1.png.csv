@@ -1,0 +1,8 @@
+Image Name,Image Type,Sharpness,Brightness,Match Score,Shift (px),Results
+1.png,BGR,1266.57,124.28,1.0,0.0,Pass
+2.png,BGR,25.03,125.86,0.99,0.0,Fail
+3.png,BGR,5.69,126.63,0.98,1.0,Fail
+4.png,BGR,439.79,62.77,1.0,0.0,Fail
+5.png,BGR,50.92,19.03,0.97,0.0,Fail
+6.png,BGR,35.72,19.72,0.97,28.65,Fail
+7.png,BGR,69.77,21.67,0.97,65.12,Fail
